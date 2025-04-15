@@ -16,6 +16,6 @@ request_data = {
 
 response = requests.post(f"{url}", data=request_data)
 
-flag = re.search(r'HTB\{.*?\}', response.text) # return matched object 
+flag = re.search('HTB\{.*?\}', response.text) # return matched object 
 
 print(flag.group(0)) #return matched string
