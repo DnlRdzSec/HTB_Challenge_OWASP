@@ -1,7 +1,7 @@
-# HTB_Challenge_OWASP
-🛡️ OWASP Top 10 Challenge – Python Scripts
+# HTB_Challenge
+🛡️ Challenge – Python Scripts
 
-🐍 Python scripts providing automated solutions for each OWASP Top 10 challenge on Hack The Box: https://app.hackthebox.com/tracks/OWASP-Top-10
+🐍 Python scripts providing automated solutions for challenges on Hack The Box https://app.hackthebox.com
 
 🚀 How to Run
 
