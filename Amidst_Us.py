@@ -1,6 +1,5 @@
 import requests
 import re
-import time
 
 host, port = "94.237.48.12", 43302
 
