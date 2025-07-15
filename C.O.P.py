@@ -25,8 +25,8 @@ def get_flag(host, port):
     print(flag.group())
 
 
-if __name__ == '__main__':
-    host, port = "94.237.61.242", 36005
-    payload = generate_payload()
-    send_payload(host, port, payload)
-    get_flag(host, port)
+
+host, port = "94.237.61.242", 36005
+payload = generate_payload()
+send_payload(host, port, payload)
+get_flag(host, port)
